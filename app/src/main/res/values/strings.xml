@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HigherLower</string>
+    <string name="highscore">HighScore: </string>
+    <string name="score">Score: </string>
+    <string name="throw_is">Throw is </string>
+</resources>
